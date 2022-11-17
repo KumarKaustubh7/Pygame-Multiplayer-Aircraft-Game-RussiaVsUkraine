@@ -6,7 +6,7 @@ TOPIC: Desktop based multiplayer aircraft war game featuring RUSSIA vs UKRAINE w
 Programming language used- Python Programming Language
 IDE used- Pycharm Community Edition
 Modules used- pygame and os
-/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
+
 DESCRIPTION-
 ------------
 
@@ -26,7 +26,6 @@ We can move from multiple aircrafts at a time, we can also fire shots from both 
 To develop this game I have used python 3.9.0 and pycharm IDE
 Images along with pygame functionalities are used for UI
 and are placed in asset folder, which acts as an asset to this project
-/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
 
 CONTROLS- 
 ---------
@@ -43,4 +42,3 @@ J - move left
 K - move down
 L - move right
 BACKSPACE - fire
-/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/*/
